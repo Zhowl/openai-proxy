@@ -42,4 +42,4 @@ deno run --allow-net --allow-read --allow-env --watch main.ts
 
 然后在 Settings 选项卡里可以设置自定义二级域名，或者绑定自己的域名。
 
-[1]: https://dash.deno.com/new?url=https://raw.githubusercontent.com/justjavac/openai-proxy/main/main.ts
+[1]: https://dash.deno.com/new?url=https://raw.githubusercontent.com/Zhowl/openai-proxy/main/main.ts
