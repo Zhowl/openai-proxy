@@ -6,7 +6,7 @@ serve(async (request) => {
   const url = new URL(request.url);
 
   if (url.pathname === "/") {
-    return fetch(new URL("./Readme.md", import.meta.url));
+    return fetch(new URL("./Readme", import.meta.url));
   }
 
   url.host = OPENAI_API_HOST;
