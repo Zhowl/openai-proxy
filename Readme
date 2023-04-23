@@ -1,1 +1,8 @@
-Your IP supports access to OpenAI.
+{
+  "error": {
+    "message": "Invalid URL (GET /)",
+    "type": "invalid_request_error",
+    "param": null,
+    "code": null
+  }
+}
